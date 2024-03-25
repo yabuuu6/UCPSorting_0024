@@ -70,7 +70,7 @@ int main()
     input();
     system("pause");
     Sort();
-    return 0;
+    return 0; 
 }
 
 
